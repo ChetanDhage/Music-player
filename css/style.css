@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .music-player {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .controls {
+    margin: 10px 0;
+  }
+  
+  .playlist {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    cursor: pointer;
+  }
+  
